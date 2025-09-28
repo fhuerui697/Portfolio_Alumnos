@@ -35,3 +35,10 @@ tags: [PHP, formularios, validación]
 */
 ?>
 
+En esta segunda versión se permite incluir dentro de actX, carpetas que contengan
+más archivos e incluso imágenes. Esta carpeta interna debe de llamarse igual que el
+ejercicio. Por ejemplo dentro de act1 podria tener una carpeta act1_1/ y dentro obligatoriamente
+tendría act1_1.php, junto con otros ficheros o otras carpetas que pudieran contener imagenes por ejemplo.
+
+
+
