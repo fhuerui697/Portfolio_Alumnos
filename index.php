@@ -185,6 +185,7 @@ $mapa = recogerMapa($patronUnidad, $patronAct, $ignorarArchivos);
       </p>
       <p>
         <a class="btn" href="<?=h($github)?>" target="_blank" rel="noopener" onclick="event.stopPropagation(); window.open(this.href,'_blank','noopener'); return false;">Ver código en GitHub</a>
+        <a class="btn1" href="https://fede.alwaysdata.net/repo" target="_blank">Ver Porftolio del Profe</a>
       </p>
     </div>
   </div>
